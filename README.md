@@ -19,10 +19,16 @@
 
 ## Oxygen Minecraft Launcher 功能支持列表及将要支持的功能
 
-|OMCL支持的功能|状态|
+|OMCL支持/即将支持的功能|状态|
 |---|---|
-|启动原版Minecraft|✅|
+|启动原版|✅|
 |启动Forge/NeoForge|-（正在编写）|
 |启动Fabric|-（正在编写）|
 |启动LiteLoader|-（正在编写）|
-
+|启动基岩版|-|
+|安装原版|-|
+|安装Forge/NeoForge|-|
+|安装Fabric|-|
+|安装LiteLoader|-|
+|安装基岩版|-|
+|内存优化|✅|
