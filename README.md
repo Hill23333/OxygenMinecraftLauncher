@@ -15,8 +15,6 @@
 
 在 Oxygen Minecraft Launcher 的启动程序部分，**isuo**，**回忆**，**砖需** 提供了很大的帮助！大家也可以看一看 **isuo** 制作的 **Module Launcher** 易语言MC启动模块，**砖需** 制作的 **[Little Limbo Launcher](https://gitcode.net/Rechalow/lllauncher "Little Limbo Launcher") ！**
 
-Oxygen Minecraft Launcher 的联机服务是由 **小震额额**提供的 “HML Anytime Play” 服务器支持的。大家也可以看一看 **小震额额** 制作的 **HZP Minecraft Launcher**！
-
 在 Oxygen Minecraft Launcher 的使用反馈上，**凯凯76579** 找到了很多改进的地方。大家也可以看一看 **凯凯76579** 制作的一系列小工具！
 
 当然，Oxygen Minecraft Launcher 的诞生还有其他许许多多的人帮助，在这里我不能一一列出，再次我也非常感谢各位的支持！
