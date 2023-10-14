@@ -17,7 +17,7 @@
 
 当然，Oxygen Minecraft Launcher 的诞生还有其他许许多多的人帮助，在这里我不能一一列出，再次我也非常感谢各位的支持！
 
-# Oxygen Minecraft Launcher 功能支持列表及将要支持的功能
+## Oxygen Minecraft Launcher 功能支持列表及将要支持的功能
 
 |OMCL支持的功能|状态|
 |---|---|
