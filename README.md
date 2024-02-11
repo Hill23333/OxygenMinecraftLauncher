@@ -39,4 +39,4 @@
 注：✅表示已实现；-表示未实现，但在计划中；?表示未实现，可能会退出计划。
 
 ## 如何捐助？
-Oxygen Minecraft Launcher目前使用**爱发电**平台来进行捐助。您可以**[点击这里](https://afdian.net/a/OMCL "点击这里")**来捐助 OMCL 的作者。
+Oxygen Minecraft Launcher目前使用**爱发电**平台来进行捐助。您可以[点击这里](https://afdian.net/a/OMCL "点击这里")来捐助 OMCL 的作者。
