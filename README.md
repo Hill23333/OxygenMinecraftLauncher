@@ -3,7 +3,7 @@
 
 如你所见，这个项目是开源的，与其他**易语言**启动器相比，Oxygen Minecraft Launcher 是开源的，并且使用 GPL3 ，因此你可以直接取用该仓库的所有代码（只需要符合GPL3的内容）。
 
-这款启动器也没有盈利渠道，但是你可以**捐助**作者（虽然你不会得到任何好处）
+这款启动器也没有盈利渠道，但是你可以**赞助**作者
 
 另外，在取用 Oxygen Minecraft Launcher 的代码后，**记得在鸣谢名单中注明 Oxygen Minecraft Launcher ，以及作者！**
 
@@ -38,5 +38,5 @@
 
 注：✅表示已实现；-表示未实现，但在计划中；?表示未实现，可能会退出计划。
 
-## 如何捐助？
-Oxygen Minecraft Launcher目前使用**爱发电**平台来进行捐助。您可以[点击这里](https://afdian.net/a/OMCL "点击这里")来捐助 OMCL 的作者。
+## 如何赞助？
+Oxygen Minecraft Launcher目前使用**爱发电**平台来进行赞助。您可以[点击这里](https://afdian.net/a/OMCL "点击这里")来赞助 OMCL 的作者。
