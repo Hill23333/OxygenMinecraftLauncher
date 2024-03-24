@@ -1,4 +1,7 @@
 # Oxygen Minecraft Launcher
+
+OMCL官网现已上线！**[OMCL](https://omcl.hill233.top "点此访问")！**
+
 欢迎来到 Oxygen Minecraft Launcher 的仓库！
 
 如你所见，这个项目是开源的，与其他**易语言**启动器相比，Oxygen Minecraft Launcher 是开源的，并且使用 GPL3 ，因此你可以直接取用该仓库的所有代码（只需要符合GPL3的内容）。
@@ -11,7 +14,7 @@
 
 **感谢名单：**
 
-在 Oxygen Minecraft Launcher 的启动程序部分，**isuo**，**回忆**，**砖需** 提供了很大的帮助！大家也可以看一看 **isuo** 制作的 **Module Launcher** 易语言MC启动模块，**砖需** 制作的 **[Little Limbo Launcher](https://gitcode.net/Rechalow/lllauncher "Little Limbo Launcher") ！**
+在 Oxygen Minecraft Launcher 的启动程序部分，**isuo**，**回忆**，**砖需** 提供了很大的帮助！大家也可以看一看 **isuo** 制作的 **Module Launcher** 易语言MC启动模块，**砖需** 制作的 **[Little Limbo Launcher](https://github.com/rechalow/lllauncher "Little Limbo Launcher") ！**
 
 在 Oxygen Minecraft Launcher 的使用反馈上，**凯凯76579** 找到了很多改进的地方。大家也可以看一看 **凯凯76579** 制作的一系列小工具！
 
