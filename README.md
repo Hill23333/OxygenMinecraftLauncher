@@ -14,32 +14,11 @@ OMCL官网现已上线！**[OMCL](https://omcl.hill233.top "点此访问")！**
 
 **感谢名单：**
 
-在 Oxygen Minecraft Launcher 的启动程序部分，**isuo**，**回忆**，**砖需** 提供了很大的帮助！大家也可以看一看 **isuo** 制作的 **Module Launcher** 易语言MC启动模块，**砖需** 制作的 **[Little Limbo Launcher](https://github.com/rechalow/lllauncher "Little Limbo Launcher") ！**
+在 Oxygen Minecraft Launcher 的启动程序部分，**isuo**，**回忆**，**xphost** 提供了很大的帮助！大家也可以看一看 **isuo** 制作的 **Module Launcher** 易语言MC启动模块，**xphost** 制作的 **[Little Limbo Launcher](https://github.com/xphost008/lllauncher "Little Limbo Launcher") ！**
 
 在 Oxygen Minecraft Launcher 的使用反馈上，**凯凯76579** 找到了很多改进的地方。大家也可以看一看 **凯凯76579** 制作的一系列小工具！
 
 当然，Oxygen Minecraft Launcher 的诞生还有其他许许多多的人帮助，在这里我不能一一列出，再次我也非常感谢各位的支持！
-
-## Oxygen Minecraft Launcher 功能支持列表及将要支持的功能
-
-|OMCL支持/即将支持的功能|状态|
-|---|---|
-|启动原版|✅|
-|启动Forge/NeoForge|-（正在编写）|
-|启动Fabric|-（正在编写）|
-|启动LiteLoader|-（正在编写）|
-|启动基岩版|-|
-|安装原版|-|
-|安装Forge/NeoForge|-|
-|安装Fabric|-|
-|安装LiteLoader|-|
-|安装基岩版|-|
-|内存优化|✅|
-|联机（Octo）|?|
-|联机（OMCL Network）|?|
-|联机（IPV6检测及公网IP检测）|-|
-
-注：✅表示已实现；-表示未实现，但在计划中；?表示未实现，可能会退出计划。
 
 ## 如何赞助？
 Oxygen Minecraft Launcher目前使用**爱发电**平台来进行赞助。您可以[点击这里](https://afdian.net/a/OMCL "点击这里")来赞助 OMCL 的作者。
