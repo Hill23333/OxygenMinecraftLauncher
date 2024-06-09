@@ -1,5 +1,16 @@
 # Oxygen Minecraft Launcher
 
+# OMCL 缓慢更新/暂时停更通知
+
+从 2024-6-9 日开始 OMCL 将开始**缓慢更新/暂时停更**。
+原因：
+
+1.易语言前景几乎没有，同步学习新语言;
+2.高中的学习压力日渐增多，无法静心处理启动器;
+3.当然是入furry圈了！所以更没时间
+
+## 详情
+
 OMCL官网现已上线！**[OMCL](https://omcl.hill233.top "点此访问")！**
 
 欢迎来到 Oxygen Minecraft Launcher 的仓库！
